@@ -40,16 +40,10 @@ Other client work — Pousset (fuel & heating oil supplier), BJFenergie (heating
 
 ## Tech Stack
 
-**Frontend**: React, Next.js, TanStack Router/Start, Vite, Tailwind CSS, Framer Motion, React Three Fiber
-**Backend & Data**: Supabase (PostgreSQL, Auth, RLS, Realtime), Node.js
-**AI & Automation**: OpenAI, Anthropic, Ollama, agent pipelines, scraping (Puppeteer/Apify)
-**Tooling**: TypeScript, Python, Vercel, Git
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tchoupiiii&show_icons=true&theme=default&hide_title=true&count_private=true)
-
-</div>
+- **Frontend**: React, Next.js, TanStack Router/Start, Vite, Tailwind CSS, Framer Motion, React Three Fiber
+- **Backend & Data**: Supabase (PostgreSQL, Auth, RLS, Realtime), Node.js
+- **AI & Automation**: OpenAI, Anthropic, Ollama, agent pipelines, scraping (Puppeteer/Apify)
+- **Tooling**: TypeScript, Python, Vercel, Git
 
 ## Contact
 
