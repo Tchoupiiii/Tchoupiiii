@@ -36,6 +36,7 @@ Other client work — Pousset (fuel & heating oil supplier), BJFenergie (heating
 
 - **Claude Pet** — a desktop pixel-art companion that reacts in real time to my AI assistant's hooks (session start, tool calls, notifications). `Python`, `tkinter`, `pystray`
 - **Wispr** — a fully local, private clone of a voice-dictation tool, with a multi-provider STT pipeline (OpenAI, NVIDIA Riva, local Whisper) and LLM-based smart text formatting. `Python`, `PySide6`
+- **Littoral** — an Apple-style scroll-driven video reveal effect (canvas compositing, pixel-sampled focal point, zoom without drift) built for a real-estate demo site. `Next.js`, `TypeScript`, `Canvas API`
 
 ## Tech Stack
 
