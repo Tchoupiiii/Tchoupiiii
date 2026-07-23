@@ -1,8 +1,8 @@
 <div align="center">
 
-# Salut, moi c'est Arthur 👋
+# Hi, I'm Arthur 👋
 
-### Développeur freelance full-stack — Next.js · Supabase · IA appliquée
+### Freelance Full-Stack Developer — Next.js · Supabase · Applied AI
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
@@ -14,45 +14,45 @@
 
 </div>
 
-## À propos
+## About
 
-Développeur freelance basé en Belgique, je conçois et livre des applications web complètes — du site vitrine au SaaS métier — avec une stack moderne (Next.js, Supabase, TypeScript). J'aime particulièrement les projets qui touchent à l'automatisation et à l'intégration d'IA (OpenAI, Anthropic, Ollama) dans des outils concrets : scoring de leads, agents, assistants métier.
+Freelance web developer based in Belgium, building complete web applications — from marketing sites to full SaaS products — with a modern stack (Next.js, Supabase, TypeScript). Particularly interested in automation and AI integration (OpenAI, Anthropic, Ollama) inside real tools: lead scoring, agents, business assistants.
 
-Toujours en train de bricoler un outil perso à côté des missions clients — souvent lié à l'IA ou à l'expérience développeur.
+Always tinkering with a personal tool on the side, usually AI- or DX-related.
 
-## Projets phares
+## Featured Projects
 
-| Projet | Description | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| **Lead Search** *(ex-Axiom)* | CRM + scanner de prospection pour agences web : audit automatisé de sites, scoring de leads par IA, enrichissement via Google Places API. | Next.js, Supabase, IA (OpenAI/Anthropic), Google Places API |
-| **Facturation** | SaaS de facturation conforme à la réglementation belge (Peppol / B2Brouter), génération de PDF, gestion multi-utilisateurs avec RLS. | Next.js, Supabase (Auth/RLS), `@react-pdf/renderer` |
-| **Studio in the City** | Site vitrine + prise de RDV pour une agence de conciergerie/location à Liège, multilingue, intégration API tierce côté serveur. | Next.js 16, next-intl (FR/EN/NL), Supabase, Cal.com API v2 |
-| **Singularity Forge** — [voir le live ↗](https://axiom-web-agency.vercel.app/) | Portfolio personnel avec scène 3D interactive et animations soignées. | React Three Fiber, TanStack Router, Tailwind CSS |
-| **On Technique** — [ontechnique.be](https://ontechnique.be) | Site vitrine pour un électricien local, migré d'un export statique vers React/Vite, optimisé SEO local et Lighthouse. | React, Vite, TanStack Start |
+| **Lead Search** | CRM + prospecting scanner for web agencies: automated site audits, AI-based lead scoring, enrichment via the Google Places API. | Next.js, Supabase, AI (OpenAI/Anthropic), Google Places API |
+| **Invoicing Platform** | Invoicing SaaS compliant with Belgian e-invoicing regulations (Peppol / B2Brouter), PDF generation, multi-user access with row-level security. | Next.js, Supabase (Auth/RLS), `@react-pdf/renderer` |
+| **Studio in the City** | Marketing site + booking flow for a short-term rental/concierge agency in Liège, multilingual, server-side third-party API integration. | Next.js 16, next-intl (FR/EN/NL), Supabase, Cal.com API v2 |
+| **Axiom Agency** — [live ↗](https://axiom-web-agency.vercel.app/) | My freelance portfolio & agency site, with an interactive 3D scene and detailed motion design. | React Three Fiber, TanStack Router, Tailwind CSS |
+| **On Technique** — [ontechnique.be](https://ontechnique.be) | Marketing site for a local electrician, migrated from a static export to React/Vite, tuned for local SEO and Lighthouse performance. | React, Vite, TanStack Start |
 
-D'autres projets clients (sites vitrines, refontes) : BJFenergie, Pousset Fuel Web, Seriane — disponibles sur demande.
+Other client work — Pousset (fuel & heating oil supplier), BJFenergie (heating & plumbing), Seriane — available on request.
 
-## Side-projects
+## Side Projects
 
-- **Claude Pet** — compagnon pixel-art de bureau qui réagit en temps réel aux hooks de mon assistant IA (démarrage de session, exécution d'outils, notifications). `Python`, `tkinter`, `pystray`
-- **Wispr** — clone 100% local et privé d'un outil de dictée vocale, pipeline STT multi-provider (OpenAI, NVIDIA Riva, Whisper local) avec formatage intelligent du texte via LLM. `Python`, `PySide6`
+- **Claude Pet** — a desktop pixel-art companion that reacts in real time to my AI assistant's hooks (session start, tool calls, notifications). `Python`, `tkinter`, `pystray`
+- **Wispr** — a fully local, private clone of a voice-dictation tool, with a multi-provider STT pipeline (OpenAI, NVIDIA Riva, local Whisper) and LLM-based smart text formatting. `Python`, `PySide6`
 
-## Stack technique
+## Tech Stack
 
-**Frontend** : React, Next.js, TanStack Router/Start, Vite, Tailwind CSS, Framer Motion, React Three Fiber
-**Backend & Data** : Supabase (PostgreSQL, Auth, RLS, Realtime), Node.js
-**IA & automatisation** : OpenAI, Anthropic, Ollama, pipelines d'agents, scraping (Puppeteer/Apify)
-**Outils** : TypeScript, Python, Vercel, Git
+**Frontend**: React, Next.js, TanStack Router/Start, Vite, Tailwind CSS, Framer Motion, React Three Fiber
+**Backend & Data**: Supabase (PostgreSQL, Auth, RLS, Realtime), Node.js
+**AI & Automation**: OpenAI, Anthropic, Ollama, agent pipelines, scraping (Puppeteer/Apify)
+**Tooling**: TypeScript, Python, Vercel, Git
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Tchoupiiii&show_icons=true&theme=default&hide_title=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tchoupiiii&show_icons=true&theme=default&hide_title=true&count_private=true)
 
 </div>
 
 ## Contact
 
-📫 **moumouthpro@gmail.com**
+📫 **arbruckwilder@gmail.com**
 
-<!-- 🔗 LinkedIn : à ajouter -->
-<!-- 🌐 Site perso : à ajouter -->
+<!-- 🔗 LinkedIn: add -->
+<!-- 🌐 Personal site: add -->
