@@ -20,6 +20,8 @@ Freelance web developer based in Belgium, building complete web applications —
 
 Always tinkering with a personal tool on the side, usually AI- or DX-related.
 
+🟢 **Open to freelance missions and full-time opportunities.**
+
 ## Featured Projects
 
 | Project | Description | Stack |
